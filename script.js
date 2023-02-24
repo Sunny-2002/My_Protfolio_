@@ -40,7 +40,7 @@ isParagraph = false;
 
 // Typerwrite text content. Use a pipe to indicate the start of the second line "|".  
 var textArray = [
-" Hi, I am Sungnick Pramanik",
+" Hi, I am Sugnick Pramanik",
 "A Competitive Coder",
 "A Computer Science Enthusiast"
 ];
